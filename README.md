@@ -53,24 +53,3 @@ lib
 6. Data is stored locally in the **Hive database**.
 7. The subject list updates automatically.
 
----
-
-## Installation
-
-### 1. Clone the repository
-
-### 2. Navigate to the project directory
-
-### 3. Install dependencies
-
----
-
-## Future Improvements
-
-- Edit subject attendance
-- Delete subjects
-- Attendance statistics and charts
-- Profile editing feature
-- Cloud database integration
-
----
